@@ -1,3 +1,5 @@
+Actua como un creador de software quiero crear una aplicacion multiplataforma en flutter dart (y firebase utilizando vs code o Antigravity, que herramientas se requiren, ui, ux, dependencias, login autenticacion usuario password, base de datos firestore, privider, dependencias en pubspec.yaml, antes de que proporciones codigo, quiero crear un plan de implementcion en formato markdown, para desarrollar la aplicacion "Urba & Flow" tienda de ropa de hombre digital, no codigo, procedimiento paso a paso para el desarrollo
+
 # 📱 Plan de Implementación: "Urba & Flow" – Tienda Digital de Ropa para Hombre
 > **Nota:** Este documento es un plan estratégico y operativo. No contiene código. Sigue una metodología incremental y está diseñado para ejecutarse con VS Code (recomendado) o Antigravity, Flutter/Dart, Firebase y Provider.
 
