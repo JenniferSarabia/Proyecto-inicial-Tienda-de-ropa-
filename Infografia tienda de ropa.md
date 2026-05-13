@@ -19,3 +19,6 @@
 
 ## Dependencias pubspec.yaml (Listado Conciso)
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/0ace5efb-abe6-4720-a6b7-9499028bbcda" />
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/14238482-c896-4363-bf2e-6238faed0a6b" />
+
